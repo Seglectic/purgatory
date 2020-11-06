@@ -1,0 +1,11 @@
+{
+  "name": "purgatory",
+  "version": "1.0.0",
+  "description": "Keeps only n most recent folders and archives the rest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seglectic Softworks",
+  "license": "ISC"
+}
